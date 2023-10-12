@@ -1,0 +1,16 @@
+1. Student information
+
+Write a program that asks a student to enter their first name, last name, age, GPA, and major. It should then print a welcome message and all the information as shown below:
+
+
+
+2. Area and circumference of a circle
+Write a program that computes both the circumference and the area of a circle for an entered radius.  Let the results be printed to the screen as specified below.  Variables should all be defined for circumference, area and radius in the program. Run the program and confirm that the correct results are printed. You can use the value 3.1415926 for Pi.
+
+
+
+
+
+Reference
+
+Linge, S. and Langtangen, H. P. (2020). Programming for computations – Python: A gentle introduction to numerical simulations with Python 3.6. (2nd ed.). Springer Open. (CC BY-SA 4.0). Retrieved from https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/23103/1007055.pdf
